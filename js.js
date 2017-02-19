@@ -145,6 +145,7 @@ $(document).ready(function(){
                     generatedNumbers = [];
                     i = 0;
                     I = 1;
+                    $('.counter').text(I);
                     mainLoop();
                   }
                 }
